@@ -20,7 +20,8 @@ spring average weekday,             6
 fall average weekday                7
 """
 
-# data prepare and train
+# note: change the following parameters
+# note: run "find_useful_buildings_for_GAN_training.py" to get buildings to train GAN
 context_a = 2
 context_b = 5
 context_a_is_weekend = True if context_a in [2, 5] else False

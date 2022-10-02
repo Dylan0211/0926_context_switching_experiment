@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Daily_experiments.iml" filepath="$PROJECT_DIR$/.idea/Daily_experiments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/0926_context_switching_experiment.iml" filepath="$PROJECT_DIR$/.idea/0926_context_switching_experiment.iml" />
     </modules>
   </component>
 </project>
